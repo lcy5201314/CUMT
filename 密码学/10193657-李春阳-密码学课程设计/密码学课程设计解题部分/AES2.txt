@@ -1,0 +1,4 @@
+Encrypted with AES in ECB mode. All values base64 encoded
+ciphertext = rW4q3swEuIOEy8RTIp/DCMdNPtdYopSRXKSLYnX9NQe8z+LMsZ6Mx/x8pwGwofdZ
+key = 6v3TyEgjUcQRnWuIhjdTBA==
+
