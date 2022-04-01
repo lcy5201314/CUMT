@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\lenovo\Desktop\数据结构实践\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(154,29): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\lenovo\Desktop\数据结构实践\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(154,55): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\lenovo\Desktop\数据结构实践\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(282,20): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication1.vcxproj -> C:\Users\lenovo\Desktop\数据结构实践\ConsoleApplication1\Debug\ConsoleApplication1.exe
